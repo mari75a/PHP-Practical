@@ -5,7 +5,7 @@
 </head>
 
 <body>
-    <form action="formaction1.php" method="POST">
+    <form action="formaction1.php" method="GET">
         <p>Name: <input type="text" name="yourname" /><br />
             E-mail: <input type="text" name="email" /></p>
         <input type=submit value=submit>
