@@ -1,5 +1,5 @@
 <?php
-// Form1.php    
+
 $nameErr = $emailErr = $ageErr = "";
 $name = $email = $age = "";
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
